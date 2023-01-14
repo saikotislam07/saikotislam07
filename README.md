@@ -2,6 +2,12 @@
 ### Hi! I'm Saikot Islam 👋 
 
 
+I a'm Competitive Programmer.
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/saikotislam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/saikotislam.shuvo.3)  
+
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/saikotislam.shuvo.3?mibextid=ZbWKwL) 
