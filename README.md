@@ -1,7 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 ### Hi! I'm Saikot Islam 👋 
-I a'm Competitive Programmer.
-
+🚀✨“I am a devoted explorer of the cosmos, fascinated by the majestic Universe filled with countless galaxies, radiant stars, mysterious planets, and invisible forces like dark matter and black holes that govern its destiny. Beyond this vast cosmos, I embrace the profound concept of the Multiverse—an infinite collection of parallel universes, each holding unique realities and untold mysteries. From the quantum fabric of existence to the grand cosmic scale, my passion lies in unraveling the secrets of all that science and imagination can reveal about our boundless reality.” 🚀✨
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaikotIslam07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/SaikotIslam07)  
